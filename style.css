@@ -1,0 +1,113 @@
+header{
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+.menu{
+  width: 425px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-family: Telex;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+.link{
+  display: flex;
+  align-items: center;
+}
+.link1{
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: Yantramanav;
+  font-size: 18px;
+  font-weight: 900;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+.link2{
+  text-decoration: underline;
+  font-weight: bold;
+  font-family: Yantramanav;
+  font-size: 32px;
+  font-weight: 900;
+  line-height: 42px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+.design{
+  display: flex;
+  justify-content: space-between;
+  padding-left: 100px;
+  
+}
+
+h1{
+  font-family: Yantramanav;
+  font-size: 90px;
+  font-weight: 700;
+  line-height: 117px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+p{
+  font-family: Telex;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 34px;
+  letter-spacing: 0em;
+  text-align: left;
+
+}
+button{
+  height: 87px;
+  width: 258px;
+  left: -38px;
+  top: 4px;
+  border-radius: 37px;
+  margin-left: 140px;
+  margin-top: 142px;
+
+}
+.connex{
+  width: 736px;
+  padding-right: 50px;
+}
+.img{
+  width: 736px;
+  height: auto;
+}
+.talk{
+  display: flex;
+  justify-content: space-between;
+  padding-inline: 20px;
+}
+.ligne{
+  border: 5px solid gray;
+  width: 1515px;
+  height: 0px;
+}
+.last{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 80px;
+}
+.icon{
+  width: 200px; 
+ 
+}
+  
+
